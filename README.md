@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="Images_SchEDGEit/SchEDGEit_logo.jpg" alt="Image Description">
+</p>
+
+
+
 # SchEDGEit  
 ### Scheduling Comes with an Edge📝  
 🧑‍💻[Ken Luigi M. Magnaye](https://github.com/Kenechimg) <br>  
