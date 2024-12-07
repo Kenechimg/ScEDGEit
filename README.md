@@ -26,9 +26,9 @@ IV. Instructions for Running the program
 <div style="border: 1px solid #4CAF50; border-radius: 8px; padding: 10px; background-color: #E8F5E9; margin: 20px 0;">  
 
 ### I. Project Overview👁️‍🗨️
-**SchEDGEit** is a system designed to help students organize their schedules effectively. Users can create tasks with specific deadlines, assign priority levels, and view them sorted by either due date or priority, ensuring that essential tasks are handled first.  
+**SchEDGEit** is a program designed to help students organize their schedules effectively. Users can create tasks with specific deadlines, assign priority levels, and view them sorted by either due date or priority, ensuring that essential tasks are handled first.  
 
-**The system allows users to:**  
+**The program allows users to:**  
 •	Add tasks with due dates and different priority level.  
 •	View tasks sorted by its priority level or date.  
 •	Mark the tasks that are completed.  
